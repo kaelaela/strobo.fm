@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Episodes on strobo.fm</title>
+    <link>https://strobo.fm/episode/</link>
+    <description>Recent content in Episodes on strobo.fm</description>
+    
+      <language>ja</language>
+    
+    
+      <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <itunes:author>Shogo Sensui</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://strobo.fm/img/icon/1920.jpg" />
+    <itunes:keywords>web,technology,gadget,productivity,automation</itunes:keywords>
+    <itunes:subtitle>A podcast focusing to web, technology, gadget, productivity, automation</itunes:subtitle>
+    <itunes:summary>Web、ガジェット、生産性、自動化などにフォーカスしたポッドキャストです</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>Shogo Sensui</itunes:name>
+      <itunes:email>shogosensui@gmail.com</itunes:email>
+    </itunes:owner>
+    <atom:link href="https://strobo.fm/episode/" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>ep9. 基地への突入</title>
+        <link>https://strobo.fm/episode/9/</link>
+        <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://strobo.fm/episode/9/</guid>
+        <description> 基地への突入  ハッシュタグ #北デ忘年会 味は絶品、価格は庶民派　香箱ガニ、魅惑の内子とミソ｜グルメクラブ｜NIKKEI STYLE WebPonize: macOS app which converts images to WebP zeit/next.js: Framework for server-rendered or statically-exported React apps pocotumblr  </description>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle> 基地への突入  ハッシュタグ #北デ忘年会 味は絶品、価格は庶民派　香箱ガニ、魅惑の内子とミソ｜グルメクラブ｜NIKKEI STYLE WebPonize: macOS app which converts images to WebP zeit/next.js: Framework for server-rendered or statically-exported React apps pocotumblr  </itunes:subtitle>
+        <itunes:duration>29:49</itunes:duration>
+        <enclosure url="https://strobo.fm/audio/9.mp3" type="audio/mpeg" length="14318572" />
+      </item>
+    
+      <item>
+        <title>ep8. QoL</title>
+        <link>https://strobo.fm/episode/8/</link>
+        <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://strobo.fm/episode/8/</guid>
+        <description> QoL  #1000ch_camera - Twitter検索 Back Around Again: Review of the Fujifilm x100t — Kenneth Reitz Leica Camera AG マップカメラ｜日本最大級のカメラ総合サイト（中古販売･買取） 焼肉 稲田 （いなだ） - 目黒/焼肉 [食べログ] 株式会社ヤザワミート | 日本の和牛を世界に。 あさひ食堂 （アサヒショクドウ） - 池尻大橋/ホルモン [食べログ] 焼肉 うしみつ 恵比寿本店 - 恵比寿/焼肉 [食べログ] にくがとう - 人形町/焼肉 [食べログ] Kyash - 現金のストレスをゼロに。 LINE Pay 2018年の抱負 - oinume journal iMac Pro - Apple（日本） ashfurrow/xcode-hardware-performance: Results from running Xcode on a non-trivial open source project using various Macs  </description>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle> QoL  #1000ch_camera - Twitter検索 Back Around Again: Review of the Fujifilm x100t — Kenneth Reitz Leica Camera AG マップカメラ｜日本最大級のカメラ総合サイト（中古販売･買取） 焼肉 稲田 （いなだ） - 目黒/焼肉 [食べログ] 株式会社ヤザワミート | 日本の和牛を世界に。 あさひ食堂 （アサヒショクドウ） - 池尻大橋/ホルモン [食べログ] 焼肉 うしみつ 恵比寿本店 - 恵比寿/焼肉 [食べログ] にくがとう - 人形町/焼肉 [食べログ] Kyash - 現金のストレスをゼロに。 LINE Pay 2018年の抱負 - oinume journal iMac Pro - Apple（日本） ashfurrow/xcode-hardware-performance: Results from running Xcode on a non-trivial open source project using various Macs  </itunes:subtitle>
+        <itunes:duration>51:48</itunes:duration>
+        <enclosure url="https://strobo.fm/audio/8.mp3" type="audio/mpeg" length="24868698" />
+      </item>
+    
+      <item>
+        <title>ep7. ドスジャギィ</title>
+        <link>https://strobo.fm/episode/7/</link>
+        <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+        
+        <guid>https://strobo.fm/episode/7/</guid>
+        <description> ドスジャギィ  Qiita のデザインが新しくなりました Qiita の新記事ページのレイアウト実装 CSS Grid Layout Module Level 1 position - CSS | MDN はじめてのプログレッシブウェブアプリ ブラウザの仕組み: 最新ウェブブラウザの内部構造 超速! Webページ速度改善ガイド ── 使いやすさは「速さ」から始まる (WEB+DB PRESS plus) CAPCOM：モンスターハンター：ワールド 公式サイト 聖剣伝説2 SECRET of MANA | SQUARE ENIX 蒙古タンメン中本 | 辛うまラーメン日本一！目指せ全国制覇！蒙古タンメン中本 Nintendo Switch Joy-Con (L) ネオンブルー/ &amp;reg; ネオンレッド Amazon Echo (Newモデル)、チャコール (ファブリック) 髪の毛くるくるポイ 新型Cタイプ(ユニットバス用) Bluelounge Kickflip MacBook Pro ( 15-inch, Late 2016, Touch Bar 対応 ) 用フリップスタンド 15インチ ブラック チラシ・勧誘印刷物の無断投函は一切お断り！ 高耐候性ステッカー 30X150mm ヨコ型 ボンコシ　LED電球 E26口金 100W形相当 1100lm 昼光色相当(13W) 天井照明器具専用 リモコンスイッチ Nature Remo リクライニングソファ 「ソフィア」 ( ソファーベッド マットレス クッション付き 14段階リクライニング 3way )   </description>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle> ドスジャギィ  Qiita のデザインが新しくなりました Qiita の新記事ページのレイアウト実装 CSS Grid Layout Module Level 1 position - CSS | MDN はじめてのプログレッシブウェブアプリ ブラウザの仕組み: 最新ウェブブラウザの内部構造 超速! Webページ速度改善ガイド ── 使いやすさは「速さ」から始まる (WEB+DB PRESS plus) CAPCOM：モンスターハンター：ワールド 公式サイト 聖剣伝説2 SECRET of MANA | SQUARE ENIX 蒙古タンメン中本 | 辛うまラーメン日本一！目指せ全国制覇！蒙古タンメン中本 Nintendo Switch Joy-Con (L) ネオンブルー/ &amp;reg; ネオンレッド Amazon Echo (Newモデル)、チャコール (ファブリック) 髪の毛くるくるポイ 新型Cタイプ(ユニットバス用) Bluelounge Kickflip MacBook Pro ( 15-inch, Late 2016, Touch Bar 対応 ) 用フリップスタンド 15インチ ブラック チラシ・勧誘印刷物の無断投函は一切お断り！ 高耐候性ステッカー 30X150mm ヨコ型 ボンコシ　LED電球 E26口金 100W形相当 1100lm 昼光色相当(13W) 天井照明器具専用 リモコンスイッチ Nature Remo リクライニングソファ 「ソフィア」 ( ソファーベッド マットレス クッション付き 14段階リクライニング 3way )   </itunes:subtitle>
+        <itunes:duration>57:42</itunes:duration>
+        <enclosure url="https://strobo.fm/audio/7.mp3" type="audio/mpeg" length="27704969" />
+      </item>
+    
+      <item>
+        <title>ep6. 古巣</title>
+        <link>https://strobo.fm/episode/6/</link>
+        <pubDate>Thu, 07 Dec 2017 00:00:00 +0000</pubDate>
+        
+        <guid>https://strobo.fm/episode/6/</guid>
+        <description> 古巣  首都高と窓 - strobo.fm ビットコイン - Wikipedia マイニングは宝くじ - strobo.fm 「とうとう沼に手を出してしまった #📷 #α6500」 マメヒコさん(@shiba_mamehiko) • Instagram ソニー デジタル一眼カメラ「α6500」ボディ ILCE-6500 Coffee Advent Calendar 2017 バルミューダ 電気ケトル BALMUDA The Pot K02A-BK カリタ コーヒードリッパー TSUBAME 燕製 WDS-185 カリタ ナイスカットミル OXO ON バリスタブレイン スケール付き 電動式 コーヒーグラインダー 無印良品 豆から挽けるコーヒーメーカー  </description>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle> 古巣  首都高と窓 - strobo.fm ビットコイン - Wikipedia マイニングは宝くじ - strobo.fm 「とうとう沼に手を出してしまった #📷 #α6500」 マメヒコさん(@shiba_mamehiko) • Instagram ソニー デジタル一眼カメラ「α6500」ボディ ILCE-6500 Coffee Advent Calendar 2017 バルミューダ 電気ケトル BALMUDA The Pot K02A-BK カリタ コーヒードリッパー TSUBAME 燕製 WDS-185 カリタ ナイスカットミル OXO ON バリスタブレイン スケール付き 電動式 コーヒーグラインダー 無印良品 豆から挽けるコーヒーメーカー  </itunes:subtitle>
+        <itunes:duration>25:42</itunes:duration>
+        <enclosure url="https://strobo.fm/audio/6.mp3" type="audio/mpeg" length="12344969" />
+      </item>
+    
+      <item>
+        <title>ep5. マイニングは宝くじ</title>
+        <link>https://strobo.fm/episode/5/</link>
+        <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+        
+        <guid>https://strobo.fm/episode/5/</guid>
+        <description> マイニングは宝くじ  TypeScript - JavaScript that scales. Front-end web development - Wikipedia 東京の中古マンション、リノベーションマンションの購入なら【cowcamo】 ソニー デジタル一眼カメラ「α6500」ボディ ILCE-6500 Google Home PHILIPS hue LED スマート照明システム スターターパック Nature Remo BRAVIA meets Android TV™ HIS AMD RADEON RX580搭載ビデオカード Ethereumをマイニングしてみる（2017夏） - MOL Ethereumをマイニングしてみる（2017夏・改） - MOL ブロックチェーン - Wikipedia ビットコイン - Wikipedia イーサリアム - Wikipedia  </description>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle> マイニングは宝くじ  TypeScript - JavaScript that scales. Front-end web development - Wikipedia 東京の中古マンション、リノベーションマンションの購入なら【cowcamo】 ソニー デジタル一眼カメラ「α6500」ボディ ILCE-6500 Google Home PHILIPS hue LED スマート照明システム スターターパック Nature Remo BRAVIA meets Android TV™ HIS AMD RADEON RX580搭載ビデオカード Ethereumをマイニングしてみる（2017夏） - MOL Ethereumをマイニングしてみる（2017夏・改） - MOL ブロックチェーン - Wikipedia ビットコイン - Wikipedia イーサリアム - Wikipedia  </itunes:subtitle>
+        <itunes:duration>42:21</itunes:duration>
+        <enclosure url="https://strobo.fm/audio/5.mp3" type="audio/mpeg" length="20334050" />
+      </item>
+    
+      <item>
+        <title>ep4. 首都高と窓</title>
+        <link>https://strobo.fm/episode/4/</link>
+        <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+        
+        <guid>https://strobo.fm/episode/4/</guid>
+        <description>首都高と窓  facebook/react yahoo/fluxible .NET Application Architecture 超速! Webページ速度改善ガイド ── 使いやすさは「速さ」から始まる (WEB+DB PRESS plus) Service Worker の紹介 Cache-Control の Immutable 拡張によるリロード時のキャッシュ最適化 Hara Kazunari@JP🔈さんのツイート: &amp;ldquo;@1000ch ちゃんにService Workerでのデータ転送量削減を調べてもらったら、減っていたので焼肉食べに行きたい。&amp;rdquo; Typora — a minimal markdown editor, markdown reader. Improving Netflix Performance Fluid User Interface with Hardware Acceleration ブラウザの仕組み: 最新ウェブブラウザの内部構造 - HTML5Rocks Node学園 28時限目 Node学園 28時限目 に行ってきたメモ #tng28 To SSR or Not to SSR, This is the problem #tng28 - Togetterまとめ Preload and Modules Intent to Implement: Link rel=modulepreload Chrome’s Loading Performance with (Many) Modules Japan Accessibility Conference [Room A] Japan Accessibility Conference vol.</description>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>首都高と窓  facebook/react yahoo/fluxible .NET Application Architecture 超速! Webページ速度改善ガイド ── 使いやすさは「速さ」から始まる (WEB+DB PRESS plus) Service Worker の紹介 Cache-Control の Immutable 拡張によるリロード時のキャッシュ最適化 Hara Kazunari@JP🔈さんのツイート: &amp;ldquo;@1000ch ちゃんにService Workerでのデータ転送量削減を調べてもらったら、減っていたので焼肉食べに行きたい。&amp;rdquo; Typora — a minimal markdown editor, markdown reader. Improving Netflix Performance Fluid User Interface with Hardware Acceleration ブラウザの仕組み: 最新ウェブブラウザの内部構造 - HTML5Rocks Node学園 28時限目 Node学園 28時限目 に行ってきたメモ #tng28 To SSR or Not to SSR, This is the problem #tng28 - Togetterまとめ Preload and Modules Intent to Implement: Link rel=modulepreload Chrome’s Loading Performance with (Many) Modules Japan Accessibility Conference [Room A] Japan Accessibility Conference vol.</itunes:subtitle>
+        <itunes:duration>1:22:00</itunes:duration>
+        <enclosure url="https://strobo.fm/audio/4.mp3" type="audio/mpeg" length="39367703" />
+      </item>
+    
+      <item>
+        <title>ep3. ムラサキウニとバフンウニ</title>
+        <link>https://strobo.fm/episode/3/</link>
+        <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+        
+        <guid>https://strobo.fm/episode/3/</guid>
+        <description> ムラサキウニとバフンウニ  reactjs/redux facebook/react Ruby on Rails ジェットスター: 格安航空券 ピュアホワイト(白いとうもろこし) | 北海道産フルーツトウモロコシ通販の北釧水産 おたる政寿司 本店 （おたるまさずし） - 小樽/寿司 [食べログ] SaCSS Special4 Frontrend in Sapporo 見逃せない！最新フロントエンド技術アップデート特集！ 株式会社サイバーエージェント DMM.com  </description>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle> ムラサキウニとバフンウニ  reactjs/redux facebook/react Ruby on Rails ジェットスター: 格安航空券 ピュアホワイト(白いとうもろこし) | 北海道産フルーツトウモロコシ通販の北釧水産 おたる政寿司 本店 （おたるまさずし） - 小樽/寿司 [食べログ] SaCSS Special4 Frontrend in Sapporo 見逃せない！最新フロントエンド技術アップデート特集！ 株式会社サイバーエージェント DMM.com  </itunes:subtitle>
+        <itunes:duration>44:26</itunes:duration>
+        <enclosure url="https://strobo.fm/audio/3.mp3" type="audio/mpeg" length="21415937" />
+      </item>
+    
+      <item>
+        <title>ep2. T型エンジニア</title>
+        <link>https://strobo.fm/episode/2/</link>
+        <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+        
+        <guid>https://strobo.fm/episode/2/</guid>
+        <description>T型エンジニア  ペルソナ5 - 公式サイト: P5 DARK SOULS III THE FIRE FADES EDITION - PS4 【PS4】コール オブ デューティ ワールドウォーII ファーストパーソン・シューティングゲーム - Wikipedia Splatoon 2 (スプラトゥーン2) CSSのスペシャリストも、サーバーサイドを知れば視野が広がる！ Incrementsが目指すT型エンジニアの育成 Sass: Syntactically Awesome Style Sheets CSSの変数を使う - CSS | MDN postcss/postcss-custom-properties: PostCSS plugin to transform W3C CSS Custom Properties for cascading variables postcss/postcss-nested: PostCSS plugin to unwrap nested rules like how Sass does it. pascalduez/postcss-apply: PostCSS plugin enabling custom properties sets references 1000ch/grd: A CSS grid framework using Flexbox.</description>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>T型エンジニア  ペルソナ5 - 公式サイト: P5 DARK SOULS III THE FIRE FADES EDITION - PS4 【PS4】コール オブ デューティ ワールドウォーII ファーストパーソン・シューティングゲーム - Wikipedia Splatoon 2 (スプラトゥーン2) CSSのスペシャリストも、サーバーサイドを知れば視野が広がる！ Incrementsが目指すT型エンジニアの育成 Sass: Syntactically Awesome Style Sheets CSSの変数を使う - CSS | MDN postcss/postcss-custom-properties: PostCSS plugin to transform W3C CSS Custom Properties for cascading variables postcss/postcss-nested: PostCSS plugin to unwrap nested rules like how Sass does it. pascalduez/postcss-apply: PostCSS plugin enabling custom properties sets references 1000ch/grd: A CSS grid framework using Flexbox.</itunes:subtitle>
+        <itunes:duration>1:15:54</itunes:duration>
+        <enclosure url="https://strobo.fm/audio/2.mp3" type="audio/mpeg" length="36443242" />
+      </item>
+    
+      <item>
+        <title>ep1. 散財</title>
+        <link>https://strobo.fm/episode/1/</link>
+        <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+        
+        <guid>https://strobo.fm/episode/1/</guid>
+        <description> 散財  進化するWeb Componentsの今、2016年最新情報 | HTML5Experts.jp 2017年のWeb Components：新春特別企画｜gihyo.jp … 技術評論社 菅平高原プラザホテル ウェスティン ルスツ リゾート | 北海道・ルスツのラグジュアリーリゾート SaCSS Special4 Frontrend in Sapporo 見逃せない！最新フロントエンド技術アップデート特集！ About simurai 東京の中古マンション、リノベーションマンションの購入なら【cowcamo】 マメヒコさん(@shiba_mamehiko) • Instagram Apple WatchでApple Payを便利に使っている話 これからのグリッドレイアウト - Grid Layout Moduleの概要 | CodeGrid CSS Variables(カスタムプロパティ)： なぜ、関心を持つべきか？ HTML5+CSS3で作る魅せるiPhoneサイト Web制作者のためのCSS設計の教科書  </description>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle> 散財  進化するWeb Componentsの今、2016年最新情報 | HTML5Experts.jp 2017年のWeb Components：新春特別企画｜gihyo.jp … 技術評論社 菅平高原プラザホテル ウェスティン ルスツ リゾート | 北海道・ルスツのラグジュアリーリゾート SaCSS Special4 Frontrend in Sapporo 見逃せない！最新フロントエンド技術アップデート特集！ About simurai 東京の中古マンション、リノベーションマンションの購入なら【cowcamo】 マメヒコさん(@shiba_mamehiko) • Instagram Apple WatchでApple Payを便利に使っている話 これからのグリッドレイアウト - Grid Layout Moduleの概要 | CodeGrid CSS Variables(カスタムプロパティ)： なぜ、関心を持つべきか？ HTML5+CSS3で作る魅せるiPhoneサイト Web制作者のためのCSS設計の教科書  </itunes:subtitle>
+        <itunes:duration>46:41</itunes:duration>
+        <enclosure url="https://strobo.fm/audio/1.mp3" type="audio/mpeg" length="22369093" />
+      </item>
+    
+  </channel>
+</rss>
